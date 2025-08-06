@@ -1,3 +1,14 @@
+### ⚠️ This repository is a forked repository
+Check updates regularly before starting to work on this repo.
+```bash
+git remote add upstream https://github.com/microsoft/mcp-for-beginners.git
+git fetch upstream
+git checkout main
+git merge upstream/main
+git push origin main
+```
+---
+
 ![MCP-for-beginners](./images/mcp-beginners.png) 
 
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/mcp-for-beginners.svg)](https://GitHub.com/microsoft/mcp-for-beginners/graphs/contributors)
